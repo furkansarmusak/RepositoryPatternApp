@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll.config
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.xml
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.pdb

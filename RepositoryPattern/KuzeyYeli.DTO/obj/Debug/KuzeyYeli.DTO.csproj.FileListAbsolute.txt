@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.pdb
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.pdb

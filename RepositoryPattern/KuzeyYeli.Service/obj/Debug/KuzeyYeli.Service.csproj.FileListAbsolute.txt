@@ -1,0 +1,13 @@
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.Service.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.Service.pdb
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.DTO.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.Repository.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\EntityFramework.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.DTO.pdb
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\KuzeyYeli.Repository.pdb
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\bin\Debug\EntityFramework.xml
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\obj\Debug\KuzeyYeli.Service.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\obj\Debug\KuzeyYeli.Service.dll
+C:\Users\Pc\Desktop\KuzeyYeli\KuzeyYeli.Service\obj\Debug\KuzeyYeli.Service.pdb
